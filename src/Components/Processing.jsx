@@ -75,7 +75,7 @@ const Processing = () => {
                 <div className="container fadeUp">
                     <div className='fs-1 fw-bold'>Pre <span className='text-main'>Press</span>.</div>
                     <div>
-                        <img className='my-3' src="public/images/image-790879.png" width={'100%'} alt="" />
+                        <img className='my-3' src="images/image-790879.png" width={'100%'} alt="" />
                     </div>
                     <p className='lh-lg'>Prepress is the term used in Printing and Publishing industries
                         for the processes and procedures that occur between the creation
@@ -115,7 +115,7 @@ const Processing = () => {
                     <div className="container fadeUp">
                         <div className='fs-1 fw-bold text-main'>Press.</div>
                         <div>
-                            <img className='my-3' src="public/images/image-0986.png" width={'100%'} alt="" />
+                            <img className='my-3' src="images/image-0986.png" width={'100%'} alt="" />
                         </div>
                         <p className='lh-lg'>Deluxe Packages Printing Services Department with State-of-the-art technologies offers a
                             complete range of document production services in both offset and digital environments. Whether you have a
@@ -149,7 +149,7 @@ const Processing = () => {
                 <div className="container fadeUp">
                     <div className='fs-1 fw-bold'>Post <span className='text-main'>Press</span>.</div>
                     <div>
-                        <img className='my-3' src="public/images/image-7865.png" width={'100%'} alt="" />
+                        <img className='my-3' src="images/image-7865.png" width={'100%'} alt="" />
                     </div>
                     <p className='lh-lg'>Our full-service bindery can provide saddle stitching and other popular binding methods
                         and folding to suit your needs. Since its creation, Printing Services has adapted to many changes in technology

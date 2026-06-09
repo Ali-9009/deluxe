@@ -21,11 +21,11 @@ const Home = () => {
                             </div>
 
                             <div className='fadeLeft bg-main col-lg-7 p-5 text-white position-relative' style={{ borderRadius: '0px 80px 0px 40px' }}>
-                                <button className='btn bg-black text-white position-absolute end-50 py-2' style={{ top: "-20px" }}>About Us <BsArrowRight /></button>
+                                <button className='btn bg-black text-white position-absolute end-50 py-2' style={{ top: "-20px" }}>About Us</button>
 
                                 <div>Packaging solutions that deliver excellence, protect your products, and captivate
                                     your customers. <br />
-                                    <img className='my-3' src={'public/Group 10.png'} width={'60%'} alt="" />
+                                    <img className="my-3" src="images/Group 10.png" width="60%" alt="" />
 
                                     <div>Recommended by people.</div>
                                 </div>
@@ -33,7 +33,7 @@ const Home = () => {
                         </div>
                         <div className='col-lg-6 col-md-5'>
                             <div className='fadeRight'>
-                                <img src={'public/Chips-pack-1 4.png'} width={'100%'} alt="" />
+                                <img src="images/Chips-pack-1 4.png" width="100%" alt="" />
                             </div>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-lg-3 col-md-4 d-flex justify-content-center fadeUp">
                             <div>
-                                <img src={'public/Group 14.png'} alt="" />
+                                <img src="images/Group 14.png" alt="" />
                                 <div className='fw-bold fs-5 my-1'>Sustainable</div>
                                 <p>Our sustainable packaging <br /> is designed to protect your <br /> product and the Earth.</p>
                             </div>
@@ -76,13 +76,15 @@ const Home = () => {
 
                         <div className='col-lg-6 col-md fadeUp'>
                             <div>
-                                <img src={'public/Group 1000001108.png'} width={'100%'} alt="" />
+                                <img src="images/Group 1000001108.png" width={'100%'} alt="" />                                
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-4 d-flex align-items-lg-end justify-content-center fadeUp">
                             <div>
-                                <img src={'public/Group 14 (1).png'} alt="" />
+                                
+                                <img src="images/Group 14 (1).png" alt="" />                                
+
                                 <div className='fw-bold fs-5 my-1'>Customizable</div>
                                 <p>Our customizable <br /> packaging adapts perfectly <br /> to your brand and products.</p>
                             </div>
@@ -101,7 +103,8 @@ const Home = () => {
                                 <div className='text-black my-2 display-2 fw-bold'>Our Projects.</div>
 
                                 <div className='d-flex align-items-start gap-3 col-lg-8'>
-                                    <img src={'public/Group 14 (1).png'} width={'15%'} alt="" />
+                                    <img src="images/Group 14 (1).png" width={'15%'} alt="" />                          
+
                                     <div>
                                         <div className='fs-4 fw-semibold text-black'>Packaging Solutions.</div>
                                         <div className='my-2 fs-5'>Innovative packaging solutions designed to protect, preserve, and impress.</div>
@@ -115,24 +118,19 @@ const Home = () => {
                         </div>
                         <div className="col-lg-6 col-md-5 px-lg-2 px-md-2 px-5">
                             <div className='my-5 fadeUp'>
-                                <img src={'public/image-8.png'} width={'100%'} alt="" />
-                                <div className='text-center my-4 fw-medium'><img src={'public/Ellipse 5.png'} width={'20'} alt="" /> Pink Paper Cup</div>
+                                <img src="images/image-8.png" width={'100%'} alt="" />                     
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/image-9.png'} width={'100%'} alt="" />
-                                <div className='text-center my-4 fw-medium'><img src={'public/Ellipse 5.png'} width={'20'} alt="" /> Pink Paper Cup</div>
+                                <img src="images/image-9.png" width={'100%'} alt="" />                     
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/image.png'} width={'100%'} alt="" />
-                                <div className='text-center my-4 fw-medium'><img src={'public/Ellipse 5.png'} width={'20'} alt="" /> Pink Paper Cup</div>
+                                <img src="images/image.png" width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/image-1.png'} width={'100%'} alt="" />
-                                <div className='text-center my-4 fw-medium'><img src={'public/Ellipse 5.png'} width={'20'} alt="" /> Pink Paper Cup</div>
+                                <img src="images/image-1.png" width={'100%'} alt="" />                     
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/image-2.png'} width={'100%'} alt="" />
-                                <div className='text-center my-4 fw-medium'><img src={'public/Ellipse 5.png'} width={'20'} alt="" /> Pink Paper Cup</div>
+                                <img src="images/image-2.png" width={'100%'} alt="" />
                             </div>
                         </div>
                     </div>

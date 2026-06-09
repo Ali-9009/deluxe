@@ -6,7 +6,7 @@ const BlogsDetail = () => {
             <section class="py-5">
                 <div class="container">
 
-                    <img class="banner-text mb-4" src="public/images/image-30498.png" width="100%" alt="" />
+                    <img class="banner-text mb-4" src="images/image-30498.png" width="100%" alt="" />
 
                     <div>
                         <p class="FadeUp">Traveling is an enriching experience that opens up new horizons, exposes us to different cultures,
@@ -55,7 +55,7 @@ const BlogsDetail = () => {
                     </div>
 
                     <div class="d-flex justify-content-center FadeUp">
-                        <img class="border rounded-3" src="public/images/image-24534.png" width="50%" alt="" />
+                        <img class="border rounded-3" src="images/image-24534.png" width="50%" alt="" />
                     </div>
                 </div>
             </section>

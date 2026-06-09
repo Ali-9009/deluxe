@@ -84,7 +84,7 @@ export default function Navbar() {
                             className="hidden lg:block"
                         >
                             <img
-                                src="/mail.png"
+                                src="images/mail.png"
                                 alt="mail"
                                 className="w-10 hover:scale-105 transition"
                             />
@@ -95,7 +95,7 @@ export default function Navbar() {
                             className="hidden lg:block"
                         >
                             <img
-                                src="/phone.png"
+                                src="images/phone.png"
                                 alt="phone"
                                 className="w-10 hover:scale-105 transition"
                             />
@@ -202,7 +202,7 @@ export default function Navbar() {
                 <div className="absolute bottom-5 left-5 flex gap-3">
                     <a href="mailto:info@example.com">
                         <img
-                            src="/mail.png"
+                            src="images/mail.png"
                             alt="mail"
                             className="w-10"
                         />
@@ -210,7 +210,7 @@ export default function Navbar() {
 
                     <a href="tel:+923001234567">
                         <img
-                            src="/phone.png"
+                            src="images/phone.png"
                             alt="phone"
                             className="w-10"
                         />

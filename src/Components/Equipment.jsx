@@ -20,25 +20,25 @@ const Equipment = () => {
                         </div>
                         <div className="col-lg-6 col-md-5">
                             <div className='my-5 fadeUp' id='bobst'>
-                                <img src={'public/images/Group 1000001132.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001132.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp' id='cron'>
-                                <img src={'public/images/Group 1000001133.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001133.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp' id='stylus'>
-                                <img src={'public/images/Group 1000001134.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001134.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp' id="rapida">
-                                <img src={'public/images/Group 1000001135.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001135.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/images/Group 1000001136.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001136.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/images/Group 1000001137.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001137.png'} width={'100%'} alt="" />
                             </div>
                             <div className='my-5 fadeUp'>
-                                <img src={'public/images/Group 1000001138.png'} width={'100%'} alt="" />
+                                <img src={'images/Group 1000001138.png'} width={'100%'} alt="" />
                             </div>
                         </div>
                     </div>

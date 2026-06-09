@@ -48,67 +48,67 @@ const AboutUs = () => {
 
     const WWD = [
         {
-            "img": "public/images/Group 1000001101.png",
+            "img": "images/Group 1000001101.png",
             "title": "packaging",
         },
         {
-            "img": "public/images/Layer_1-1.png",
+            "img": "images/Layer_1-1.png",
             "title": "Buntings",
         },
         {
-            "img": "public/images/Layer_1-4.png",
+            "img": "images/Layer_1-4.png",
             "title": "Booklet",
         },
         {
-            "img": "public/images/Layer_1-7.png",
+            "img": "images/Layer_1-7.png",
             "title": "Brouchers",
         },
         {
-            "img": "public/images/Layer_1-10.png",
+            "img": "images/Layer_1-10.png",
             "title": "Calendar",
         },
         {
-            "img": "public/images/Layer_1-12.png",
+            "img": "images/Layer_1-12.png",
             "title": "Mobile",
         },
         {
-            "img": "public/images/Layer_1.png",
+            "img": "images/Layer_1.png",
             "title": "Folders",
         },
         {
-            "img": "public/images/Layer_1-2.png",
+            "img": "images/Layer_1-2.png",
             "title": "Leaflet",
         },
         {
-            "img": "public/images/Layer_1-5.png",
+            "img": "images/Layer_1-5.png",
             "title": "Posters",
         },
         {
-            "img": "public/images/Layer_1-8.png",
+            "img": "images/Layer_1-8.png",
             "title": "Pads",
         },
         {
-            "img": "public/images/Vector.png",
+            "img": "images/Vector.png",
             "title": "CorrugatedCartons",
         },
         {
-            "img": "public/images/Layer_1-13.png",
+            "img": "images/Layer_1-13.png",
             "title": "Inlay",
         },
         {
-            "img": "public/images/Layer_1-3.png",
+            "img": "images/Layer_1-3.png",
             "title": "Bands",
         },
         {
-            "img": "public/images/Layer_1-6.png",
+            "img": "images/Layer_1-6.png",
             "title": "Tags",
         },
         {
-            "img": "public/images/Layer_1-9.png",
+            "img": "images/Layer_1-9.png",
             "title": "Magazines",
         },
         {
-            "img": "public/images/Layer_1-11.png",
+            "img": "images/Layer_1-11.png",
             "title": "Labels",
         },
     ]
@@ -132,7 +132,7 @@ const AboutUs = () => {
                     <div className="row gap-lg-0 gap-md-0 gap-4 position-relative" style={{ top: '-60px' }}>
                         <div className="col-lg-4 col-md-4 fadeUp">
                             <div className='shadow p-4 rounded-4 text-center h-100 bg-white'>
-                                <img src={"public/images/Layer-0589.png"} alt="" />
+                                <img src="images/Layer-0589.png" alt="" />
                                 <div className='fs-3 fw-bold my-2'>Mission</div>
                                 <div>As a competitive and progressive Printing and Packaging company, we are committed to provide top quality\
                                     services to our local and global customers by ensuring optimization of stakeholders' value through
@@ -141,7 +141,7 @@ const AboutUs = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 fadeUp">
                             <div className='shadow p-4 rounded-4 text-center h-100 bg-white'>
-                                <img src={"public/images/Layer_109.png"} alt="" />
+                                <img src="images/Layer_109.png" alt="" />
                                 <div className='fs-3 fw-bold my-2'>Vision</div>
                                 <div>Deluxe Packages strives to become the benchmark printing and packaging company in the markets it
                                     serves by maintaining stakeholder value, providing long term progressive careers to its people and adopting
@@ -150,7 +150,7 @@ const AboutUs = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 fadeUp">
                             <div className='shadow p-4 rounded-4 text-center h-100 bg-white'>
-                                <img src={"public/images/Layer_10982.png"} alt="" />
+                                <img src="images/Layer_10982.png" alt="" />
                                 <div className='fs-3 fw-bold my-2'>Values</div>
                                 <div>Dependable: We build trust through consistent, high-quality, and timely service.Passionate: Committed to our mission,
                                     clients, company, and the environment.People First: We invest in fostering a diverse, engaged, and competent team.
@@ -265,20 +265,20 @@ const AboutUs = () => {
                     <div className="container-fluid">
                         <div className='slider-container'>
                             <Slider {...settings}>
-                                <img src="public/images/medicam.png" alt="" />
-                                <img src="public/images/atco.png" alt="" />
-                                <img src="public/images/bake-parlor.png" alt="" />
-                                <img src="public/images/dashi.png" alt="" />
-                                <img src="public/images/gala.png" alt="" />
-                                <img src="public/images/hilal.png" alt="" />
-                                <img src="public/images/kingtox.png" alt="" />
-                                <img src="public/images/mano-salwa.png" alt="" />
-                                <img src="public/images/medicam.png" alt="" />
-                                <img src="public/images/mehran.png" alt="" />
-                                <img src="public/images/pearl.png" alt="" />
+                                <img src="images/medicam.png" alt="" />
+                                <img src="images/atco.png" alt="" />
+                                <img src="images/bake-parlor.png" alt="" />
+                                <img src="images/dashi.png" alt="" />
+                                <img src="images/gala.png" alt="" />
+                                <img src="images/hilal.png" alt="" />
+                                <img src="images/kingtox.png" alt="" />
+                                <img src="images/mano-salwa.png" alt="" />
+                                <img src="images/medicam.png" alt="" />
+                                <img src="images/mehran.png" alt="" />
+                                <img src="images/pearl.png" alt="" />
 
-                                <img src="public/images/pie-in-the-sky.png" alt="" />
-                                <img src="public/images/PK.png" alt="" />
+                                <img src="images/pie-in-the-sky.png" alt="" />
+                                <img src="images/PK.png" alt="" />
                             </Slider>
                         </div>
                     </div>
@@ -302,37 +302,37 @@ const AboutUs = () => {
                                 <div>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/muscles-posing-o-5HR5KZN.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
                                 <div className='text-end'>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/young-businesswoman-in-glasses-and-white-turtlenec-4SEPDJP.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
                                 <div>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/guy-wearing-white-t-WEYM2ZW.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
                                 <div className='text-end'>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/photo-of-handsome-man-has-confident-serious-expres-NYBB4EY.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
                                 <div>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/young-businesswoman-in-glasses-and-white-turtlenec-4SEPDJP.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
                                 <div className='text-end'>
                                     <div className='text-center d-inline-block fadeUp'>
                                         <img className='rounded-circle' src="https://templatekit.jegtheme.com/wrapmax/wp-content/uploads/sites/393/2023/06/guy-wearing-white-t-WEYM2ZW.jpg" width={'200vw'} alt="" />
-                                        <div className=''><img src="public/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
+                                        <div className=''><img src="images/Ellipse 5.png" width={'20'} alt="" /> James Miller</div>
                                     </div>
                                 </div>
 
@@ -385,7 +385,7 @@ const AboutUs = () => {
 
                         <div className="col-lg-5 fadeUp">
                             <div>
-                                <img src="public/images/image 26.png" width={'100%'} alt="" />
+                                <img src="images/image 26.png" width={'100%'} alt="" />
                             </div>
                         </div>
                     </div>
